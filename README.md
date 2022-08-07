@@ -1,6 +1,7 @@
 # ***Binary Search Tree Project***
 
 ## [7,5,1,8,3,6,0,9,4,2] dizisinin Binary-Search-Tree aşamaları
+<div style="text-align: center;">
 
 * ilk değer olan **7**, root seçilir.
 * 1. **5**       5<7; 7'nin soluna
@@ -12,6 +13,7 @@
 * 7. **9**       9>7, 9>8; 8in sağına
 * 8. **4**       4<7, 4<5, 4>1, 4>3; 3'ün sağına
 * 9. **2**       2<7, 2<5, 2>1, 2<3; 3'ün soluna yazılır.
+</div>
 
 
 
